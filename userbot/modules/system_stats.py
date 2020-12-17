@@ -135,8 +135,8 @@ async def amireallyalive(alive):
     logo = ALIVE_LOGO
     output = ("`i am alive My Master` \n"
               "`𝘪 can't die` \n"
-             f"Telethon version: {version.__version__} \n"
-             f"P̳y̳t̳h̳o̳n̳ ̳v̳e̳r̳s̳i̳o̳n̳: {python_version()} \n"
+             f"Telethon Version: {version.__version__} \n"
+             f"Python Version: {python_version()} \n"
              
 
               if ALIVE_LOGO:
